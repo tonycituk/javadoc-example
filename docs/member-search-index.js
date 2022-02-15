@@ -1,1 +1,1 @@
-memberSearchIndex = [{"p":"<Unnamed>","c":"MyClass","l":"getField()"},{"p":"<Unnamed>","c":"MyClass","l":"MyClass()","u":"%3Cinit%3E()"},{"p":"<Unnamed>","c":"MyClass","l":"setField(String)","u":"setField(java.lang.String)"}];updateSearchResults();
+memberSearchIndex = [{"p":"mypackage","c":"MyClass","l":"getField()"},{"p":"mypackage","c":"MyClass","l":"MyClass()","u":"%3Cinit%3E()"},{"p":"mypackage","c":"MyClass","l":"setField(String)","u":"setField(java.lang.String)"}];updateSearchResults();

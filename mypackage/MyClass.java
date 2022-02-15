@@ -1,3 +1,4 @@
+package mypackage;
 /**
  * MyClass is an example class...
  * 
