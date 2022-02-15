@@ -9,5 +9,5 @@
 - #### Comment out the code with the [javadoc syntax](https://www.oracle.com/mx/technical-resources/articles/java/javadoc-tool.html).
 - #### Run javadoc
 ```bash
-javadoc -d docs/ MyClass.java
+javadoc -d docs/ mypackage
 ```
